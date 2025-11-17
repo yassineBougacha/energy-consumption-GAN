@@ -21,10 +21,7 @@ Projet P2M utilisant les GANs pour générer des données synthétiques de conso
 - Recall: 94.65%
 - F1-Score: 88.63%
 
-## 🏃‍♂️ Utilisation
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/1_data_exploration.ipynb
+######
 
 <img width="876" height="280" alt="image" src="https://github.com/user-attachments/assets/4134c2c6-893c-41ea-96d2-6c4514a89fb8" />
 
